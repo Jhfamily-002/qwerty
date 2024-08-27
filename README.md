@@ -1,4 +1,4 @@
-# qwerty
+# Qwerty
 initial commit
 ben - hello
 JH - Calo
